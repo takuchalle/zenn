@@ -3,7 +3,7 @@ title: "xv6 を QEMU で動かす"
 emoji: "😊"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["xv6", "qemu"]
-published: false
+published: true
 ---
 
 `RISC-V`エミュを作ってて最初のターゲットとして`xv6`の動作を目標にしてます。
