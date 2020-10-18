@@ -1,8 +1,8 @@
 ---
-title: "xv6 を QEMU で動かす"
+title: "xv6-riscv を QEMU で動かす"
 emoji: "😊"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["xv6", "qemu"]
+topics: ["xv6", "qemu", "riscv"]
 published: true
 ---
 
