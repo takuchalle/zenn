@@ -2,11 +2,11 @@
 title: "xv6-riscv を QEMU で動かす"
 emoji: "😊"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["xv6", "qemu", "riscv"]
+topics: ["xv6", "qemu", "risc-v"]
 published: true
 ---
 
-`RISC-V`エミュを作ってて最初のターゲットとして`xv6`の動作を目標にしてます。
+`RISC-V`エミュを作っていて最初のターゲットとして`xv6`の動作を目標にしてます。
 `xv6`を試しに動かしてみたくて、`QEMU`が手っ取り早いかなって思ってやろうとしたんですが、日本語でまとまった手順がなかったのでメモがてら残しておきます。
 
 📒 **[xv6サイト(英語) →](https://pdos.csail.mit.edu/6.828/2020/xv6.html)**
