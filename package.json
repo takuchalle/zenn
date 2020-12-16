@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/takuchalle/zenn#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.49"
+    "zenn-cli": "^0.1.62"
+  },
+  "devDependencies": {
+    "textlint": "^11.7.6",
+    "textlint-rule-preset-ja-spacing": "^2.0.2",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
   }
 }
